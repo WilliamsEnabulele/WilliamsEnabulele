@@ -13,12 +13,14 @@ namespace bio
 
 ```
 ```c#
+using System.Collections.Generic;
+
 namespace skills
 {
  public class Skills {
-    public string[] Languages {get; set;} = new string[] { "C#", "PHP","Javascript" };
-    public string[] Databases {get; set;} = new string[] { "mySQL", "PostgreSQL", "MongoDB" };
-    public string[] Frameworks {get; set;} = new string[] { ".Net5", "Blazor", "Lumen/Laravel", "Angular", "React", "Vue" }
+    public List<string> Languages {get; set;} = new List<string> { "C#", "PHP","Javascript" };
+    public List<string> Databases {get; set;} = new List<string> { "mySQL", "PostgreSQL", "MongoDB" };
+    public List<string> Frameworks {get; set;} = new List<string> { ".Net5", "Blazor", "Lumen/Laravel", "Angular", "React", "Vue" }
    
   }
 }
@@ -26,12 +28,13 @@ namespace skills
 ```
 
  ```c#
+using System.Collections.Generic; 
  
 namespace others
 {
     public class Others {
-    public string[] Tools {get; set;} = new string[] { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai" };
-    public string[] Devops {get; set;} = new string[] { "Docker", "GitHub Actions", "Heroku", "AWS" };
+    public List<string> Tools {get; set;} = new List<string> { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai" };
+    public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS" };
   }
 }
  
