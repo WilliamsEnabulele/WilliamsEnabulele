@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Williams Enabulele
-#### Handles projects from ideation, design to a fully working and scalable application
+#### Handles projects from ideation, entity relationship design, UI design, the ultimately fleshing it together to a fully working and scalable application using arrays of programming languages and/or frameworks.
 
 ```c#
 namespace bio
