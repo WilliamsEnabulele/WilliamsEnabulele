@@ -7,7 +7,7 @@ namespace bio
   public class Bio {
     public string Name {get; set;} = "Enabulele Williams";
     public string Title {get; set;} = "Software Engineer";
-    public string Company {get; set;} = "Enabsdigital | Remote";
+    public string Company {get; set;} = "Decagon | Remote";
     public string Location {get; set;} = "Nigeria, NG";
   }
 }
