@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Williams Enabulele
+#### Handles projects from ideation, design to a fully working and scalable application
 
 ```c#
 namespace bio
