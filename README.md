@@ -40,7 +40,7 @@ namespace others
 }
  
  ```
-
+![Williams's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
