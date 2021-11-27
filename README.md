@@ -40,7 +40,8 @@ namespace others
 }
  
  ```
-![Williams's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)
+![William's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enabsdigital)](https://github.com/enabsdigital/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
