@@ -34,8 +34,8 @@ using System.Collections.Generic;
 namespace others
 {
     public class Others {
-    public List<string> Tools {get; set;} = new List<string> { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai" };
-    public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS" };
+    public List<string> Tools {get; set;} = new List<string> { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai", "Jira", "Clickup", "Monday" };
+    public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS", "Azure", "Netlify", "Versel" };
   }
 }
  
