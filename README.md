@@ -7,7 +7,7 @@ namespace bio
   public class Bio {
     public string Name {get; set;} = "Enabulele Williams";
     public string Title {get; set;} = "Software Engineer";
-    public string Company {get; set;} = "Decagon | Remote";
+    public string Company {get; set;} = "betPawa | Remote";
     public string Location {get; set;} = "Nigeria, NG";
   }
 }
@@ -19,9 +19,9 @@ using System.Collections.Generic;
 namespace skills
 {
  public class Skills {
-    public List<string> Languages {get; set;} = new List<string> { "C#", "PHP", "Javascript", "Typescript"};
+    public List<string> Languages {get; set;} = new List<string> {"JAVA" "C#", "PHP", "Javascript", "Typescript"};
     public List<string> Databases {get; set;} = new List<string> {  "Microsoft SQL", "mySQL", "PostgreSQL", "sqlite","MongoDB" };
-    public List<string> Frameworks {get; set;} = new List<string> { ".Net5", "Blazor", "Lumen/Laravel", "Angular", "React", "Vue" ,"GraphQL", "Ionic"};
+    public List<string> Frameworks {get; set;} = new List<string> { "SpringBoot", ".Net5", "Blazor", "Lumen/Laravel", "Angular", "React", "Vue" ,"GraphQL", "Ionic"};
    
   }
 }
