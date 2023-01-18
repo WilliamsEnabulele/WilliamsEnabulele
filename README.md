@@ -19,9 +19,9 @@ using System.Collections.Generic;
 namespace skills
 {
  public class Skills {
-    public List<string> Languages {get; set;} = new List<string> {"JAVA" "C#", "PHP", "Javascript", "Typescript"};
-    public List<string> Databases {get; set;} = new List<string> {  "Microsoft SQL", "mySQL", "PostgreSQL", "sqlite","MongoDB" };
-    public List<string> Frameworks {get; set;} = new List<string> { "SpringBoot", ".Net5", "Blazor", "Lumen/Laravel", "Angular", "React", "Vue" ,"GraphQL", "Ionic"};
+    public List<string> Languages {get; set;} = new List<string> {"C#", "Javascript", "Typescript"};
+    public List<string> Databases {get; set;} = new List<string> {  "RMDB","NoSQL" };
+    public List<string> Frameworks {get; set;} = new List<string> { ".Net5", "Blazor", "Angular"};
    
   }
 }
@@ -46,7 +46,7 @@ namespace others
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/williams-enabulele-aa45a8ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@enabsdigital-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/williams-enabulele-b37310251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@enabsdigital-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/11632321/williams" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-enabsdigital-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:enabsdigital@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-enabsdigital@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
