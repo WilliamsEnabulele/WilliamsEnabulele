@@ -21,7 +21,7 @@ namespace skills
  public class Skills {
     public List<string> Languages {get; set;} = new List<string> {"C#", "Javascript", "Typescript"};
     public List<string> Databases {get; set;} = new List<string> {  "RMDB","NoSQL" };
-    public List<string> Frameworks {get; set;} = new List<string> { ".Net5", "Blazor", "Angular"};
+    public List<string> Frameworks {get; set;} = new List<string> { ".Net", "Angular"};
    
   }
 }
