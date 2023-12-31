@@ -19,9 +19,9 @@ using System.Collections.Generic;
 namespace skills
 {
  public class Skills {
-    public List<string> Languages {get; set;} = new List<string> {"C#", "Javascript", "Typescript"};
+    public List<string> Languages {get; set;} = new List<string> {"Javascript", "Typescript", "C#"};
     public List<string> Databases {get; set;} = new List<string> {  "RMDB","NoSQL" };
-    public List<string> Frameworks {get; set;} = new List<string> { ".Net", "Angular"};
+    public List<string> Frameworks {get; set;} = new List<string> { "React Native", .Net", "Angular"};
    
   }
 }
