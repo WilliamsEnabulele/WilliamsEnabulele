@@ -1,5 +1,5 @@
-### Hi there 👋 I am Williams Enabulele
-#### Can be your reliable plug for end to end scalable web applications, let's connect.
+### Hi there 👋 I'm Williams Enabulele
+#### Your Go-To Expert for End-to-End Scalable Web Applications. Let's Connect!
 
 ```c#
 namespace Person
@@ -22,8 +22,8 @@ namespace Person
     public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS", "Azure", "Netlify", "Versel", "Rabbit" };
 }
 ```
-<!-- ![William's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enabsdigital)](https://github.com/enabsdigital/github-readme-stats) -->
+![William's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enabsdigital)](https://github.com/enabsdigital/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
