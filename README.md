@@ -13,16 +13,14 @@ namespace Person
 
  public class Skills {
     public List<string> Languages {get; set;} = new List<string> {"C#","Javascript", "Typescript"};
-    public List<string> Databases {get; set;} = new List<string> {  "RMDB","NoSQL" };
-    public List<string> Frameworks {get; set;} = new List<string> { ".Net", ".Net MVC", "Angular"};
+    public List<string> Databases {get; set;} = new List<string> {"RMDB","NoSQL" };
+    public List<string> Frameworks {get; set;} = new List<string> {".Net", ".Net MVC", "Blazor", "Angular"};
   }
 
-public class Others {
-public List<string> Tools {get; set;} = new List<string> { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai", "Jira", "Clickup", "Monday" };
-public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS", "Azure", "Netlify", "Versel", "Rabbit" };
+ public class Others {
+    public List<string> Tools {get; set;} = new List<string> { "Git", "Github" "Visual Studio", "Visual Studio Code","Figma", "Ai", "Jira", "Clickup", "Monday" };
+    public List<string> Devops {get; set;} = new List<string> { "Docker", "GitHub Actions", "Heroku", "AWS", "Azure", "Netlify", "Versel", "Rabbit" };
 }
-
-
 ```
 <!-- ![William's github stats](https://github-readme-stats.vercel.app/api?username=enabsdigital)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enabsdigital)](https://github.com/enabsdigital/github-readme-stats) -->
