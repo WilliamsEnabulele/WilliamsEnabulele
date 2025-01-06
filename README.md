@@ -7,7 +7,7 @@ namespace Person
   public class Bio {
     public string Name {get; set;} = "Enabulele Williams";
     public string Title {get; set;} = "Software Engineer";
-    public string Company {get; set;} = "OneAd | Remote";
+    public string Company {get; set;} = "Sterling Bank | Remote";
     public string Location {get; set;} = "Nigeria, NG";
   }
 
