@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Williams Enabulele
-#### Your Go-To Expert for End-to-End Scalable Web Applications. Let's Connect!
+#### Building Scalable Web Applications one line of code per time. Let's Connect!
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
